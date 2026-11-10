@@ -20,10 +20,10 @@
 ## 2. 데이터셋
 
 - **출처:** [Kaggle — AI Usage and Student Academic Performance Analysis](https://www.kaggle.com/datasets/ranaghulamnabi/ai-usage-and-student-academic-performance-analysis)
-- 데이터 파일: ` ai_student_impact_dataset.csv '
-- 분석 대상: 노트북 출력 기준 50,000개 행
-- 원본 변수: 16개
-- 1차 분석: 8개 변수 선택
+- **데이터 파일**: ` ai_student_impact_dataset.csv '
+- **분석 대상**: 노트북 출력 기준 50,000개 행
+- **원본 변수**: 16개
+- **1차 분석**: 8개 변수 선택
 - **추가 분석:** 프롬프트 엔지니어링 숙련도를 포함한 9개 변수
 
 > 데이터의 수집 방식, 실제 관측 데이터 여부 및 대표성은 원본 데이터셋 설명에서 별도로 확인해야 합니다. 아래 결과는 해당 데이터셋의 탐색적 분석 결과이며, 대학생 전체로 일반화하지 않습니다.
